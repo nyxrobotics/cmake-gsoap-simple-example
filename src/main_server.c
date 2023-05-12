@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <string.h>
+#include <soapH.h>
 
 // xml namespace mapping and gsoap glue code
 #include "CountriesPortSoap11.nsmap"
